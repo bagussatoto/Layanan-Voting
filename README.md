@@ -81,15 +81,23 @@
 
 
 
+
 ## 📌 Request Fitur Baru dan Pelaporan Bug
 
 Anda dapat meminta fitur baru maupun melaporkan bug melalui menu **issues** yang sudah disediakan oleh GitHub (lihat menu di atas), posting issues baru dan kita akan berdiskusi disana.
+
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<!-- End -->
 
 ## 🛒 Berkontribusi
 
 Siapapun dapat berkontribusi pada proyek ini mulai dari pemrograman, pembuakan buku manual, sampai dengan mengenalkan produk ini kepada Mahasiswa 
 Untuk belajar agar mengurangi kesenjangan pendidikan teknologi dengan cara membuat postingan issue di repository ini.
 
+<!-- Garis Lurus -->
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<!-- End -->
 
 > 🧑🏽‍💻 | [BAGUS BUDI SATOTO ](http://github.com/bagussatoto)
 <br>
