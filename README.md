@@ -37,7 +37,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 <!-- End -->
 
-## Languages and Tools
+## 📊 Languages and Tools
 <br>
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -52,7 +52,7 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 <!-- End -->
 
-### How to install
+## 🔗 Cara Install
 <br>
 
 - <code>git clone ↆↆ </code>
@@ -65,7 +65,7 @@
 - <code>npm install</code>
 - <code>npm run dev</code>
 
-### Demo 
+##  🚫 Demo 
 - 🚫  [INDEXS KEPUASAN LAYANAN](https://layanan-voting.vercel.app/)
 
 
